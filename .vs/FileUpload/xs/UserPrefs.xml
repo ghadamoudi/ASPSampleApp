@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{785B468E-9C15-4A2F-BD60-8DCFD873C1EE}|Default">
+  <MonoDevelop.Ide.ItemProperties.FileUpload PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FileUpload/Pages/Upload.cshtml.cs">
+    <Files>
+      <File FileName="FileUpload/Pages/Upload.cshtml" Line="13" Column="39" />
+      <File FileName="FileUpload/Pages/Upload.cshtml.cs" Line="24" Column="64" />
+      <File FileName="FileUpload/Pages/Shared/_Layout.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FileUpload" expanded="True">
+            <Node name="FileUpload" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Index.cshtml" expanded="True" />
+                <Node name="Privacy.cshtml" expanded="True" />
+                <Node name="Upload.cshtml" expanded="True">
+                  <Node name="Upload.cshtml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

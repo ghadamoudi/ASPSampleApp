@@ -1,0 +1,23 @@
+﻿@page
+@model FileUpload.Pages.UploadModel
+@{
+    ViewData["Title"] = "Upload a File";
+}
+<div class="text-center">
+    <h2 class="display-4">Upload Your Files</h2>
+</div>
+
+<form method="post" asp-page="Upload" enctype="multipart/form-data">
+
+    <p>Please upload your CV:</p>
+    <input type="file" name="afile" />
+    <br />
+    <br />
+
+    <input type="submit" value="Upload" />
+    @if (!string.IsNullOrEmpty(Model.FileName))
+    {
+        <br />
+        <h4>Your file was uploaded successfully.</h4>
+    }
+</form>
